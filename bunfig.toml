@@ -1,0 +1,11 @@
+jsx = "react"
+publicPath = "/"
+telemetry = false
+
+[define]
+"import.meta.env.env.VITE_APP_TITLE"="'noturno'"
+"import.meta.env.VITE_APP_MODE"="'develoment'"
+"import.meta.env.VITE_APP_RUNTIME"="'bun'"
+
+[run]
+bun = true

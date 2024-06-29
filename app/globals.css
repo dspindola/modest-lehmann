@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+html,
+body {
+  @apply bg-indigo-950 text-white text-3xl;
+}

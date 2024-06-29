@@ -1,0 +1,13 @@
+{
+  "setupTasks": [],
+  "tasks": {
+    "Dev": {
+      "name": "Dev",
+      "command": "bun --bun vite dev",
+      "runAtStart": false,
+      "preview": {
+        "port": 3000
+      }
+    }
+  }
+}
